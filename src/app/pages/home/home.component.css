@@ -1,9 +1,7 @@
-.custom-img {
-    max-width: 700px; /* Cambia este valor a lo que necesites */
-    height: auto; /* Mantiene la proporción */
-  }
-  
-
+#small-img {
+  max-width: 70%; /* La imagen ocupará solo el 65% del ancho del contenedor */
+  height: auto;   /* Mantendrá la proporción de la imagen */
+}
  
 
   
