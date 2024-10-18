@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+#small-img {
+    max-width: 70%; /* La imagen ocupará solo el 70% del ancho del contenedor */
+    height: auto;   /* Mantendrá la proporción de la imagen */
+  }
