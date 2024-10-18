@@ -1,0 +1,4 @@
+#small-img {
+    max-width: 70%; /* La imagen ocupará solo el 65% del ancho del contenedor */
+    height: auto;   /* Mantendrá la proporción de la imagen */
+  }
