@@ -5,6 +5,7 @@ import { ContactoComponent } from './contacto/contacto.component';
 import { QuienesSomosComponent } from './pages/quienes-somos/quienes-somos.component';
 import { LandingComponent } from './pages/landing/landing.component';
 import { InmobiliarioComponent } from './pages/inmobiliario/inmobiliario.component';
+import { Articulo2Component } from './pages/articulo2/articulo2.component';
 
 export const routes: Routes = [
     { path: '', component: LandingComponent },
@@ -13,5 +14,6 @@ export const routes: Routes = [
     { path: 'contacto-component', component: ContactoComponent },
     { path: 'quiensomos-component', component: QuienesSomosComponent },
     { path: 'home-component', component: HomeComponent },
-    { path: 'inmobiliario-component', component: InmobiliarioComponent }
+    { path: 'inmobiliario-component', component: InmobiliarioComponent },
+    { path: 'articulo2-component', component: Articulo2Component }
 ];
